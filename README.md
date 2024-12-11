@@ -1,11 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zwbwvhFk)
 # IoT 2024 - Lab 8
 
-* Team N:
-* Student N1 (id, surname, name):
-* Student N2 (id, surname, name):
-* Student N3 (id, surname, name):
-* Student N4 (id, surname, name):
+* Team N: General Motors
+* Student N1 (id, surname, name): se13385 Roziyeva Irodaxon
+* Student N2 (id, surname, name): se14146 Turaev Golib
+* Student N3 (id, surname, name): se14329 Koriev Ayubkhon
+* Student N4 (id, surname, name): se14108 Fayzullayev Umar
 
 ![image](https://github.com/user-attachments/assets/289ba734-3c1b-4724-85f6-130862a8d71d)
 
